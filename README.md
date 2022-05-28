@@ -1,2 +1,2 @@
-# MY-C-PROGRAMS
-ALL THE PROGRAMS DONE BY ME IN C LANGUAGE 
+# MY-C-PROGRAMS-
+ALL Programs done by me in C Language 
